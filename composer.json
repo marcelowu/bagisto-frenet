@@ -24,6 +24,6 @@
     "minimum-stability": "dev",
     "require": {
         "monolog/monolog": ">=1.17",
-        "marcelowu/frenet-php": "dev-master"
+        "frenet/frenet-php": "^1.1"
     }
 }
